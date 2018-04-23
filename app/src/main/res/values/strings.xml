@@ -1,8 +1,8 @@
 <resources>
-    <string name="app_name">AndroidFire</string>
+    <string name="app_name">AI百晓生</string>
 
     <!--menu-->
-    <string name="news">AndroidFire新闻</string>
+    <string name="news">AI资讯尽入彀中..</string>
     <string name="zhihu">知乎</string>
     <string name="photo">图片</string>
     <string name="video">视频</string>
